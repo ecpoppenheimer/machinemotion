@@ -1,4 +1,4 @@
-# File name:            MachineMotion.py                            #
+# File name:            machinemotion.py                            #
 # Note:                 Information about all the g-Code            #
 #                       commands supported are available at         #
 #                       the following location of the SDK:          #
